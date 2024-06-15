@@ -1,14 +1,15 @@
 
+
+
 /**
- * @file main.cpp
- * @author Sebastián Romero Cruz (src402@nyu.edu) and Wesley Zhuang (wz2445@nyu.edu)
- * @brief An OpenGL program that creates a window with a blue background. Renders in a colored triangle that will be
- * able to rotate along x- or y-axis and be able to scale accordibg to `delta_time` to adjust for varying
- * frames-per-second.
- * @date 2024-06-03
- *
- * @copyright NYU Tandon School of Engineering (c) 2024
- */
+* Author:Regan Zhu
+* Assignment: Simple 2D Scene
+* Date due: 2023-06-11, 11:59pm
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
 #define GL_SILENCE_DEPRECATION
 #define STB_IMAGE_IMPLEMENTATION
 #define LOG(argument) std::cout << argument << '\n'
